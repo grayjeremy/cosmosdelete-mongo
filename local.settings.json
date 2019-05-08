@@ -1,0 +1,14 @@
+{
+    "IsEncrypted": false,
+  "Values": {
+    "AzureWebJobsStorage": "UseDevelopmentStorage=true",
+    "AzureWebJobsDashboard": "UseDevelopmentStorage=true",
+    "CosmosDBDatabase": "testImport",
+    "CosmosDBCollection": "testImport",
+    "CosmosDBAccountEndpoint":"https://fortroy.documents.azure.com:443/",
+    "CosmosDBAccountKey":"<insert>",
+    "MongoDBAtlasConnectionString": "<insert>",
+    "MongoDBDatabaseName" : "MyDatabase",
+    "MongoDBCollectionName" : "MyCollection"    
+  }
+}
